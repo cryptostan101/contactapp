@@ -26,7 +26,7 @@
           }
           else{
 
-            $toemail = 'joelarkin2010@gmail.com';
+            $toemail = 'xxxxxxxx@gmail.com';
             $subject = 'Contact Request From'.$name;
             $body = '<h2> Contact Request </h2>
                 <h4>Name</h4><p>'.$name.'</p>
